@@ -1,0 +1,2 @@
+/home/grace/Coding_Projects/Music/bin/Release/net10.0/linux-x64/publish/Music.pdb
+/home/grace/Coding_Projects/Music/bin/Release/net10.0/linux-x64/publish/Music

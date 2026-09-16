@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "VOY8iLGFJJc=",
+  "success": true,
+  "projectFilePath": "/home/grace/Coding_Projects/Music/Music.csproj",
+  "expectedPackageFiles": [
+    "/home/grace/.nuget/packages/embedio/3.5.2/embedio.3.5.2.nupkg.sha512",
+    "/home/grace/.nuget/packages/microsoft.net.illink.tasks/10.0.8/microsoft.net.illink.tasks.10.0.8.nupkg.sha512",
+    "/home/grace/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/grace/.nuget/packages/spotifyapi.web/7.4.2/spotifyapi.web.7.4.2.nupkg.sha512",
+    "/home/grace/.nuget/packages/spotifyapi.web.auth/7.4.2/spotifyapi.web.auth.7.4.2.nupkg.sha512",
+    "/home/grace/.nuget/packages/unosquare.swan.lite/3.1.0/unosquare.swan.lite.3.1.0.nupkg.sha512",
+    "/home/grace/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/10.0.8/microsoft.netcore.app.runtime.linux-x64.10.0.8.nupkg.sha512",
+    "/home/grace/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.8/microsoft.aspnetcore.app.ref.10.0.8.nupkg.sha512",
+    "/home/grace/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/10.0.8/microsoft.aspnetcore.app.runtime.linux-x64.10.0.8.nupkg.sha512",
+    "/home/grace/.nuget/packages/microsoft.netcore.app.host.linux-x64/10.0.8/microsoft.netcore.app.host.linux-x64.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

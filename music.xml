@@ -1,0 +1,1569 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <allMusic>
+    <listOfAlbums>
+      <Album>
+        <albumName>Mosquito</albumName>
+        <albumURL>https://hatermalmo.bandcamp.com/album/mosquito</albumURL>
+        <artistName>Hater</artistName>
+        <dateAdded>2026-01-20T02:19:54.8226007-06:00</dateAdded>
+        <dateListenedTo>2026-01-20T03:11:51.1103998-06:00</dateListenedTo>
+        <listedTo>false</listedTo>
+        <index>0</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Solstice</albumName>
+        <albumURL>https://open.spotify.com/album/21Zyup8nPHuxrIUQoTY0dD</albumURL>
+        <artistName>Vivi Milne</artistName>
+        <dateAdded>2026-01-20T02:52:38.4445096-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>1</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Becoming Tomorrow</albumName>
+        <albumURL>https://jarredwalker.bandcamp.com/album/becoming-tomorrow</albumURL>
+        <artistName>Jarred Walker</artistName>
+        <dateAdded>2026-01-20T02:55:25.1997556-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>2</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Life Slime</albumName>
+        <albumURL>https://pictishtrail.bandcamp.com/album/life-slime</albumURL>
+        <artistName>Pictish Trail</artistName>
+        <dateAdded>2026-01-20T03:04:33.6243385-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>3</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Bubble</albumName>
+        <albumURL>https://open.spotify.com/album/5eoPO2nkqWUc56gLw05syJ</albumURL>
+        <artistName>Whitney K</artistName>
+        <dateAdded>2026-01-20T03:05:58.5743617-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>4</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Bad Music For Bad People</albumName>
+        <albumURL>https://open.spotify.com/album/2KZS6hOoun6Vo5EqGM3HJG?si=560b6e4c25f54ed6</albumURL>
+        <artistName>The Cramps</artistName>
+        <dateAdded>2026-01-20T03:29:48.6579663-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>5</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Fate</albumName>
+        <albumURL>https://open.spotify.com/album/5ZsqAOPB7VqSgI4PNK7g80?si=3681c3af72d3463e</albumURL>
+        <artistName>Soviet Soviet</artistName>
+        <dateAdded>2026-01-20T03:30:06.5733769-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>6</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>RUSH! (ARE U COMING?)</albumName>
+        <albumURL>https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8?si=JdBXFqhzSSiEh1LaF14DfA</albumURL>
+        <artistName>Maneskin</artistName>
+        <dateAdded>2026-01-20T03:30:49.0622016-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>7</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Mercurial World</albumName>
+        <albumURL>https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY?si=WBuvnSQkQVi-lB10YReKcg</albumURL>
+        <artistName>Magdalena Bay</artistName>
+        <dateAdded>2026-01-20T03:31:23.1893847-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>8</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>I Love My Computer</albumName>
+        <albumURL>https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ?si=dee3c83ab2e547a9</albumURL>
+        <artistName>Ninajirachi</artistName>
+        <dateAdded>2026-01-20T03:36:43.7938077-06:00</dateAdded>
+        <dateListenedTo>2026-01-20T19:59:01.8499996-06:00</dateListenedTo>
+        <listedTo>true</listedTo>
+        <index>9</index>
+        <rating>5.5</rating>
+        <thoughts>Very alright album, the synths are immaculate. Some songs are very gloopy and nostalgic in parts. It really reminds me of minecraft and some sort of pixar music. However, it is very much like clubby. Not my favorite album, but it still sounds fairly pretty. There is nothing wrong with the album, but nothing that really stands out either.</thoughts>
+      </Album>
+      <Album>
+        <albumName>Fairlyland Codex</albumName>
+        <albumURL>https://open.spotify.com/album/2SCljWoTOQQORfiWbtGL5j?si=e97d0e1a609d467d</albumURL>
+        <artistName>Tropical Fuck Storm</artistName>
+        <dateAdded>2026-01-20T03:37:02.1250993-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>10</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>The Film</albumName>
+        <albumURL>https://open.spotify.com/album/3YGJIQF9nzJaehEcOTTDC8?si=e2159b42d64a4d44</albumURL>
+        <artistName>Sumac</artistName>
+        <dateAdded>2026-01-20T03:37:14.8932042-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>11</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Vanisher, Horizon Scraper</albumName>
+        <albumURL>https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u?si=f93fe7dcdb534f27</albumURL>
+        <artistName>Quadeca</artistName>
+        <dateAdded>2026-01-20T03:37:37.683458-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>12</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>She Reaches Out To She Reaches Out To She</albumName>
+        <albumURL>https://open.spotify.com/album/4uJMF1xAEk9IgPA5UbwNA6?si=60oTm4fOSDmGYLqjXNeX7g</albumURL>
+        <artistName>Chelsea Wolfe</artistName>
+        <dateAdded>2026-01-20T03:38:32.6888629-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>13</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>The Thief Next To Jesus</albumName>
+        <albumURL>https://open.spotify.com/album/4fmC67uHti9BxWUNAUb6wy?si=f7vZN0XtTV-OMRQPFDTxtA</albumURL>
+        <artistName>Ka</artistName>
+        <dateAdded>2026-01-20T03:39:04.5633885-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>14</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Pink</albumName>
+        <albumURL>https://open.spotify.com/album/0L7mC9kTa31p3cEaFwHIgD?si=eb22dae5add7433e</albumURL>
+        <artistName>Boris</artistName>
+        <dateAdded>2026-01-20T03:39:59.0160077-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>15</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Amplifier Worship</albumName>
+        <albumURL>https://open.spotify.com/album/2FRA0dAkkapRAy7sH6c4yu?si=556e278d75de4e7d</albumURL>
+        <artistName>Boris</artistName>
+        <dateAdded>2026-01-20T03:40:15.9043772-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>16</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Our Newest Album Ever!</albumName>
+        <albumURL>https://open.spotify.com/album/38G4pKEOqzHWqX4TmWUmKy?si=031f3bba584743a1</albumURL>
+        <artistName>Five Iron Frenzy</artistName>
+        <dateAdded>2026-01-20T03:40:37.3376275-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>17</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>The Warrior's Code</albumName>
+        <albumURL>https://open.spotify.com/album/2sZGDqHfU884z3iFris122?si=746e2f537adb457d</albumURL>
+        <artistName>Dropkick Murphys</artistName>
+        <dateAdded>2026-01-20T03:40:53.2432111-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>18</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Pink Flag</albumName>
+        <albumURL>https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L?si=kOmU5oIhQ_ujvxfYS1np_g</albumURL>
+        <artistName>Wire</artistName>
+        <dateAdded>2026-01-20T03:41:31.5739932-06:00</dateAdded>
+        <dateListenedTo>2026-01-20T23:47:38.601986-06:00</dateListenedTo>
+        <listedTo>true</listedTo>
+        <index>19</index>
+        <rating>7.25</rating>
+        <thoughts>All around fairly good punk album, especially considering I have a bias against british punk. This band is apparently very influential, and you can hear it. The similarities to so many other punk bands is crazy. If this was made modern day I'd say it would be a 5, but since it was made in the fucking 70s, 7.5. (I just hate british people)</thoughts>
+      </Album>
+      <Album>
+        <albumName>Eight Arms To Hold You</albumName>
+        <albumURL>https://open.spotify.com/album/5ZqOSlcQ0fA7MZOgvpOJT5?si=14793a297c1443f4</albumURL>
+        <artistName>Veruca Salt</artistName>
+        <dateAdded>2026-01-20T03:41:48.9177356-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>20</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Grudgepacker</albumName>
+        <albumURL>https://open.spotify.com/album/6O0Ofk3Ic55U47vUSIsm0q?si=61b9e8b393b84da6</albumURL>
+        <artistName>Grudepacker</artistName>
+        <dateAdded>2026-01-20T03:42:08.0182157-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>21</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Symbols</albumName>
+        <albumURL>https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC?si=f7105fbe3ddc4672</albumURL>
+        <artistName>KMFDM</artistName>
+        <dateAdded>2026-01-20T03:42:26.5703989-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>22</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Ocean Avenue</albumName>
+        <albumURL>https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA?si=7615ef22a6a24a25</albumURL>
+        <artistName>Yellowcard</artistName>
+        <dateAdded>2026-01-20T03:42:56.7363583-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>23</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Tell All Your Friends</albumName>
+        <albumURL>https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg?si=bf8f08f06fa945ad</albumURL>
+        <artistName>Taking Back Sunday</artistName>
+        <dateAdded>2026-01-20T03:43:11.3390443-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>24</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>SEYCHELLES</albumName>
+        <albumURL>https://open.spotify.com/album/7BQPfd39YTObQGamGhDF7g?si=c4ef9efdedd94aea</albumURL>
+        <artistName>Masayoshi Takanaka</artistName>
+        <dateAdded>2026-01-20T03:43:41.1796905-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>25</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Deja Entendu</albumName>
+        <albumURL>https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX?si=9a2ee5629071422a</albumURL>
+        <artistName>Brand New</artistName>
+        <dateAdded>2026-01-20T03:43:59.7903071-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>26</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>The North Slode</albumName>
+        <albumURL>https://open.spotify.com/album/7I0hdPF12VF8Cc8F6PGil5?si=04705800a5824a13</albumURL>
+        <artistName>Conflicts</artistName>
+        <dateAdded>2026-01-20T03:44:46.0188742-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>27</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>In Step</albumName>
+        <albumURL>https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk?si=1402172b5b6346e8</albumURL>
+        <artistName>Stevie Ray Vaughan</artistName>
+        <dateAdded>2026-01-20T03:45:06.8020334-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>28</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Songbook: Vollum III</albumName>
+        <albumURL>https://open.spotify.com/album/3ERgoRDoJOaU5pjYRLfydO</albumURL>
+        <artistName>The Vindictives</artistName>
+        <dateAdded>2026-01-20T03:48:35.7889075-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>29</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>The Cost Of Living</albumName>
+        <albumURL>https://open.spotify.com/album/2MRDTfZWhCdVejmqlrNcOt?si=07ea06b349c147bc</albumURL>
+        <artistName>St.Arnaud</artistName>
+        <dateAdded>2026-01-20T03:49:38.5837502-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>30</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>The Make Believes</albumName>
+        <albumURL>https://open.spotify.com/album/4ixy8odq0uhBtjzRKjftF8?si=8356ed8819cb4cb5</albumURL>
+        <artistName>The Make Believes</artistName>
+        <dateAdded>2026-01-20T03:49:57.9299624-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>31</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Because This Fucking World Stinks...</albumName>
+        <albumURL>https://open.spotify.com/album/6yUb7pvAM5ryV1pA06fEUp?si=WK0sL9IjQ9O5qiMoaNZXcQ</albumURL>
+        <artistName>The Fartz</artistName>
+        <dateAdded>2026-01-20T03:50:26.5734131-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>32</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Holy Sick</albumName>
+        <albumURL>https://open.spotify.com/album/0SzuisbgdQDLCb4dtGan75?si=FF963UydQryH5v3KUEPFpw&amp;context=spotify%3Aalbum%3A0SzuisbgdQDLCb4dtGan75</albumURL>
+        <artistName>WAAX</artistName>
+        <dateAdded>2026-01-20T04:00:19.1429991-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>33</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Here Come The Warm Jets</albumName>
+        <albumURL>https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi</albumURL>
+        <artistName>Brian Eno</artistName>
+        <dateAdded>2026-01-20T04:00:35.2755149-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>34</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Zopilote Machine</albumName>
+        <albumURL>https://open.spotify.com/album/05CTDTTvDlkgM4Utz5HUxy</albumURL>
+        <artistName>The Mountain Goats</artistName>
+        <dateAdded>2026-01-20T04:00:57.8488899-06:00</dateAdded>
+        <dateListenedTo>2026-01-31T14:13:50.3530852-06:00</dateListenedTo>
+        <listedTo>true</listedTo>
+        <index>35</index>
+        <rating>7</rating>
+        <thoughts>Very unique album, not my type of music, but it still is really solid. It tells a story in a chaotic, yet interesting, way. I dislike the first few songs where it sounds like Alastor from Hazbin Hotel is singing, but the instrumentals are very very nice. I think overall the album is fine, very folk-punky with the standout track being Grendel's Mother. Such a pretty track.</thoughts>
+      </Album>
+      <Album>
+        <albumName>Sun God</albumName>
+        <albumURL>https://open.spotify.com/album/5QrwYk88HCCDtMdN5xZGVn?si=QS1rcy60TbWrQKoGX8jlHw</albumURL>
+        <artistName>Sunday Driver</artistName>
+        <dateAdded>2026-01-20T04:01:15.2983632-06:00</dateAdded>
+        <dateListenedTo>2026-05-29T15:49:46.015028-05:00</dateListenedTo>
+        <listedTo>true</listedTo>
+        <index>36</index>
+        <rating>8.5</rating>
+        <thoughts>An emotionally pretty album, very egyptian in the best way possible. It flows well, it feels lively, the vocals are stellar, and it simply feels, in lack of a better term, woody, I am talking the dusty "oh this dry forest has an old stick here" type of feel. It is simple, and doesn't need more.</thoughts>
+      </Album>
+      <Album>
+        <albumName>Dralion</albumName>
+        <albumURL>https://open.spotify.com/album/44gwTHLhbydw9lrnRIDL6f</albumURL>
+        <artistName>Cirque du Soleil</artistName>
+        <dateAdded>2026-01-20T04:01:36.1972675-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>37</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Infinite</albumName>
+        <albumURL>https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3</albumURL>
+        <artistName>Mobb Deep</artistName>
+        <dateAdded>2026-01-20T04:08:03.1485754-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>38</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Funeral For A Dream</albumName>
+        <albumURL>https://open.spotify.com/album/2fo2pTBcrcwzP5xbyUGMC9</albumURL>
+        <artistName>Apollo Brown</artistName>
+        <dateAdded>2026-01-20T04:08:54.9316324-06:00</dateAdded>
+        <dateListenedTo>2026-01-21T13:36:08.3379555-06:00</dateListenedTo>
+        <listedTo>true</listedTo>
+        <index>39</index>
+        <rating>8</rating>
+        <thoughts>Not usually a fan of hip-hop, but this album is so pretty. The lyricism is so fucking good, the commentary is great and its just such a great album. I was blown away with how good it is, and I can see myself coming back to it in the future.</thoughts>
+      </Album>
+      <Album>
+        <albumName>GOLDFISH</albumName>
+        <albumURL>https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g?si=vcq_Je1uRAS-CdEVAY9JDg</albumURL>
+        <artistName>Hit-Boy</artistName>
+        <dateAdded>2026-01-20T04:10:49.993407-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>40</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Fine Dining</albumName>
+        <albumURL>https://open.spotify.com/album/0F4wRT60GtrEXN34YKEPKD?si=yZI4b2p8Rf2kSkGrFtDu_w</albumURL>
+        <artistName>Dave East</artistName>
+        <dateAdded>2026-01-20T04:11:41.0596811-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>41</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Room For Abuse '06</albumName>
+        <albumURL>https://open.spotify.com/album/5Jf3CXEX8DhIxzH3psPoCf?si=3kxK4nYLTCCGsI6A97WqZQ</albumURL>
+        <artistName>[spunge]</artistName>
+        <dateAdded>2026-01-20T04:16:06.8498669-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>42</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Skalleluia</albumName>
+        <albumURL>https://open.spotify.com/album/2723YvpnWTKpttOo3mjnB5?si=Zk2KYaOgQJeuzu8LD0qM9g</albumURL>
+        <artistName>The Insyderz</artistName>
+        <dateAdded>2026-01-20T04:19:33.197976-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>43</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Wild, Passionate, Ugly</albumName>
+        <albumURL>https://open.spotify.com/album/0k9A14hZiUCSgDzglxaCkm</albumURL>
+        <artistName>HORSEBOY</artistName>
+        <dateAdded>2026-01-20T04:27:45.5304289-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>44</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Engine Check</albumName>
+        <albumURL>https://theghostisclearrecords.bandcamp.com/album/engine-check</albumURL>
+        <artistName>Leg Yield</artistName>
+        <dateAdded>2026-01-20T04:31:40.2379759-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>45</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>A Walk Through The Ambient Garden</albumName>
+        <albumURL>https://purecode.bandcamp.com/album/a-walk-through-the-ambient-garden</albumURL>
+        <artistName>Pure Code</artistName>
+        <dateAdded>2026-01-20T04:33:47.9141525-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>46</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Alter Ego</albumName>
+        <albumURL>https://open.spotify.com/album/1xxnW1Z019XJWIDC8iU9QV</albumURL>
+        <artistName>No Vale Nada</artistName>
+        <dateAdded>2026-01-20T04:35:42.731863-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>47</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Life In The Abyss</albumName>
+        <albumURL>https://everystrangerlookslikeyou.bandcamp.com/album/life-in-the-abyss</albumURL>
+        <artistName>Every Stranger Looks Like You</artistName>
+        <dateAdded>2026-01-20T04:38:27.2364888-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>48</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>The New Sound</albumName>
+        <albumURL>https://open.spotify.com/album/07YS7ooqYtvPZLlW59MHY5?si=XuBBF4pnQ26rgzyYHClncg</albumURL>
+        <artistName>Geordie Greep</artistName>
+        <dateAdded>2026-01-20T04:43:46.4447489-06:00</dateAdded>
+        <dateListenedTo>2026-03-20T22:00:23.7898604-05:00</dateListenedTo>
+        <listedTo>true</listedTo>
+        <index>49</index>
+        <rating>10</rating>
+        <thoughts>This album is raw, emotional, and intense. The sound of this whole album is softly romantic with its yearning and passonate lustful feel. I almost cried at how stunning this album is, and I lack the words to properly express what I feel about this album. </thoughts>
+      </Album>
+      <Album>
+        <albumName>Heavy Metal</albumName>
+        <albumURL>https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk</albumURL>
+        <artistName>Cameron Winter</artistName>
+        <dateAdded>2026-01-20T04:45:34.9653358-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>50</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Noise Between The Shades</albumName>
+        <albumURL>https://open.spotify.com/album/59FK2Gxjg5jjy0OQGc6YUA?si=koWkMZd6QRuqXsZ8W9z0IA</albumURL>
+        <artistName>Melting Palms</artistName>
+        <dateAdded>2026-01-20T04:47:17.8239878-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>51</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Blinded By Fame</albumName>
+        <albumURL>https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn</albumURL>
+        <artistName>Dutch Interior</artistName>
+        <dateAdded>2026-01-20T04:48:08.8083553-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>52</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Moneyball</albumName>
+        <albumURL>https://open.spotify.com/album/3c959V1BE6WsCICg4RKtQi?si=jSRk48_PSVGyyzL2VtcKZA</albumURL>
+        <artistName>Dutch Interior</artistName>
+        <dateAdded>2026-01-20T04:48:25.107949-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>53</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>I Looked Out</albumName>
+        <albumURL>https://open.spotify.com/album/2rreQuHDdWoYubYIL27yiK?si=EXaL92cqT7qBbIz6M2s5jw</albumURL>
+        <artistName>Greg Freeman</artistName>
+        <dateAdded>2026-01-20T04:49:35.2171409-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>54</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Burnover</albumName>
+        <albumURL>https://open.spotify.com/album/0C9nK6t31Xxpv6XtMakvQv?si=tjgjlYxlTKm0LW0_Uyhnfw</albumURL>
+        <artistName>Greg Freeman</artistName>
+        <dateAdded>2026-01-20T04:49:49.7901938-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>55</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Box for Buddy, Box for Star</albumName>
+        <albumURL>https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV</albumURL>
+        <artistName>This is Lorelei</artistName>
+        <dateAdded>2026-01-20T04:51:09.5019201-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>56</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>GROG</albumName>
+        <albumURL>https://open.spotify.com/album/1TEMvDFgL8AGNszROlwxOE</albumURL>
+        <artistName>Frog</artistName>
+        <dateAdded>2026-01-20T04:52:35.5010888-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>57</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Count Bateman</albumName>
+        <albumURL>https://open.spotify.com/album/2O8N7PKDWJ9jmYaMV7CAqH</albumURL>
+        <artistName>Frog</artistName>
+        <dateAdded>2026-01-20T04:52:57.3883212-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>58</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>THE COUNT</albumName>
+        <albumURL>https://open.spotify.com/album/70fXOjp8M86eENswClC51h</albumURL>
+        <artistName>Frog</artistName>
+        <dateAdded>2026-01-20T04:53:11.8541749-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>59</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Sounds Like...</albumName>
+        <albumURL>https://open.spotify.com/album/54WXEOsnZYULedb3Gz7fnr</albumURL>
+        <artistName>Florry</artistName>
+        <dateAdded>2026-01-20T04:54:11.2794922-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>60</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>The Holey Bible</albumName>
+        <albumURL>https://open.spotify.com/album/028b1SjRJpiDteFXEVUl10?si=4p8p_r8uTguB2lLT0RBTvw</albumURL>
+        <artistName>Florry</artistName>
+        <dateAdded>2026-01-20T04:54:38.1005061-06:00</dateAdded>
+        <dateListenedTo>2026-01-21T14:42:47.7307135-06:00</dateListenedTo>
+        <listedTo>true</listedTo>
+        <index>61</index>
+        <rating>8.25</rating>
+        <thoughts>A beautiful folk/country album, and I do not usually like country music. Super somber, romantic, and hopeful. It is very calming overall and the vocals are amazing, their voice gives me head the entire album. The guitar as well, it's really pleasant. It feels like a full story as well, and a rollercoaster.</thoughts>
+      </Album>
+      <Album>
+        <albumName>Manning Fireworks</albumName>
+        <albumURL>https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN</albumURL>
+        <artistName>MJ Lenderman</artistName>
+        <dateAdded>2026-01-20T04:56:12.0971925-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>62</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Free Energy</albumName>
+        <albumURL>https://open.spotify.com/album/65xYYnCJh3cuM2OWFlKrN3</albumURL>
+        <artistName>Dummy</artistName>
+        <dateAdded>2026-01-20T04:57:07.9226033-06:00</dateAdded>
+        <dateListenedTo>2026-01-20T21:12:12.4232969-06:00</dateListenedTo>
+        <listedTo>true</listedTo>
+        <index>63</index>
+        <rating>9.25</rating>
+        <thoughts>Such a stunning album, the way the instruments drown out the vocals in this happy, yet melancholy, way. At times in the album it feels almost initmate with how they overlap and the complexities of the instrumentals. It is one of the best albums I have ever heard.</thoughts>
+      </Album>
+      <Album>
+        <albumName>Sing!</albumName>
+        <albumURL>https://open.spotify.com/album/0LxA1R2samCGvTPStG0bwt</albumURL>
+        <artistName>Dusty Forever</artistName>
+        <dateAdded>2026-01-20T04:58:16.7058636-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>64</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Big Grief</albumName>
+        <albumURL>https://open.spotify.com/album/3WH0K46IAKNCyj0KmgENDS</albumURL>
+        <artistName>WAAX</artistName>
+        <dateAdded>2026-01-20T05:25:27.5566875-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>65</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Giver Taker</albumName>
+        <albumURL>https://anjimile.bandcamp.com/album/giver-taker</albumURL>
+        <artistName>Anjimile</artistName>
+        <dateAdded>2026-01-20T20:08:00.3512743-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>66</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>FAFO</albumName>
+        <albumURL>https://open.spotify.com/album/3gO7eJVpnvKTYbifZbtebv?go=1&amp;sp_cid=2241861892437ce8f6107b761d25732d&amp;utm_source=embed_player_p&amp;utm_medium=desktop&amp;nd=1&amp;dlsi=214edecae27240e7</albumURL>
+        <artistName>Ras Kass</artistName>
+        <dateAdded>2026-01-20T20:08:17.4672391-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>67</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Welcome To The Cr1tter.n3t</albumName>
+        <albumURL>https://open.spotify.com/album/57pur7nnvNWz5vPWK0NfKh</albumURL>
+        <artistName>Cr1tter</artistName>
+        <dateAdded>2026-01-20T20:09:56.9628213-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>68</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Obzen</albumName>
+        <albumURL>https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa</albumURL>
+        <artistName>Meshuggah</artistName>
+        <dateAdded>2026-01-20T20:12:02.3365056-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>69</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Moveys</albumName>
+        <albumURL>https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar?si=6e2b5845f1434206</albumURL>
+        <artistName>Slow Pulp</artistName>
+        <dateAdded>2026-01-20T20:12:20.0547168-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>70</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>NEURODEVIANT</albumName>
+        <albumURL>https://open.spotify.com/album/4oPd2L2SSTrTNMYo0tA4ob?si=929defbf99ee4e7c</albumURL>
+        <artistName>CHRONOPHAZE</artistName>
+        <dateAdded>2026-01-20T20:12:36.8330822-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>71</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Entertainment!</albumName>
+        <albumURL>https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK</albumURL>
+        <artistName>Gang Of Four</artistName>
+        <dateAdded>2026-01-20T23:42:40.6818923-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>72</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Dumb EPs</albumName>
+        <albumURL>https://open.spotify.com/album/0pCnZODcFNQ8nvO4DZnZhC</albumURL>
+        <artistName>Dummy</artistName>
+        <dateAdded>2026-01-21T00:00:45.7722793-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>73</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Geometry of Murder: Extra Capsular Extraction Inversions</albumName>
+        <albumURL>https://open.spotify.com/album/4uL8k64OPNekMWcbbTN2ln</albumURL>
+        <artistName>Earth</artistName>
+        <dateAdded>2026-01-21T13:40:38.3180507-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>74</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>The Past Is a Garden I Never Fed</albumName>
+        <albumURL>https://open.spotify.com/album/3hpCp98BIl6GYVROKyDrnm</albumURL>
+        <artistName>The Reds, Pinks and Purples</artistName>
+        <dateAdded>2026-01-21T13:42:11.8732901-06:00</dateAdded>
+        <dateListenedTo>2026-02-03T13:47:30.4524501-06:00</dateListenedTo>
+        <listedTo>true</listedTo>
+        <index>75</index>
+        <rating>9</rating>
+        <thoughts>I think this album sounds like goth music if it was more upbeat and happy, yet still somber and depressing. I fear the best way I can discribe the albums is that it felt like listening to disintegration for the first time again. Poeticlly beautiful lyrics with deep somber instrumentals, truly a great album.</thoughts>
+      </Album>
+      <Album>
+        <albumName>Ready For Heaven</albumName>
+        <albumURL>https://open.spotify.com/album/0kjdW909CPU9zSysq1qy4E</albumURL>
+        <artistName>Deradoorian</artistName>
+        <dateAdded>2026-01-21T13:43:29.0299286-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>76</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Vulnicura</albumName>
+        <albumURL>https://open.spotify.com/album/1ttnHZ0HVGMSMTJdZZ7kYK</albumURL>
+        <artistName>Bjork</artistName>
+        <dateAdded>2026-01-21T13:45:41.501579-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>77</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>The Wall</albumName>
+        <albumURL>https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F</albumURL>
+        <artistName>Pink Floyd</artistName>
+        <dateAdded>2026-01-21T13:46:17.6514972-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>78</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Asphalt Meadows</albumName>
+        <albumURL>https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS</albumURL>
+        <artistName>Death Cab for Cutie</artistName>
+        <dateAdded>2026-01-21T13:47:05.0932767-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>79</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Within The Margin Of Error</albumName>
+        <albumURL>https://marksloan1.bandcamp.com/album/within-the-margin-of-error</albumURL>
+        <artistName>Mark Sloan</artistName>
+        <dateAdded>2026-01-21T13:48:53.71503-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>80</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Sweet Freedom</albumName>
+        <albumURL>https://www.sakisgouzonis.com/sakis-gouzonis-sweet-freedom/</albumURL>
+        <artistName>Sakis Gouzonis</artistName>
+        <dateAdded>2026-01-21T13:51:12.4130908-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>81</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Campfire Songs</albumName>
+        <albumURL>https://open.spotify.com/album/4Kxkn9jlNbyTWI8xK8vPU6?si=BflESvbcTIuGMvz2X47yTA</albumURL>
+        <artistName>Animal Collective</artistName>
+        <dateAdded>2026-01-21T13:56:34.630943-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>82</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Merriweather Post Pavilion</albumName>
+        <albumURL>https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq?si=F91QNLNwRQSu8szqIDLTwA</albumURL>
+        <artistName>Animal Collective</artistName>
+        <dateAdded>2026-01-21T13:57:01.5093898-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>83</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>The Junkyard 2</albumName>
+        <albumURL>https://open.spotify.com/album/1atIWz9DXx6jyicuPyWay0</albumURL>
+        <artistName>Penelope Scott</artistName>
+        <dateAdded>2026-01-31T14:21:17.8834307-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>84</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Vem Ska Trosta Knyttet</albumName>
+        <albumURL>https://open.spotify.com/album/4BQUY2xZnMOVfbldYHd0pK</albumURL>
+        <artistName>Peter Lundblad</artistName>
+        <dateAdded>2026-01-31T14:22:32.5412496-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>85</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Vivian</albumName>
+        <albumURL>https://open.spotify.com/album/5qxqTRFDfzgJczLG6JsPuO</albumURL>
+        <artistName>Vivian</artistName>
+        <dateAdded>2026-01-31T14:22:56.7043741-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>86</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>CaramellDance 'Heaven Sent'</albumName>
+        <albumURL>https://open.spotify.com/album/1xSmyUe3GVVWyKUD9NFhMP</albumURL>
+        <artistName>CaramellDance Osirem</artistName>
+        <dateAdded>2026-01-31T14:23:46.6587509-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>87</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>No More Stories Are Told Today...</albumName>
+        <albumURL>https://open.spotify.com/album/6QJAG1BhQNPcudjqlXmdjA</albumURL>
+        <artistName>Mew</artistName>
+        <dateAdded>2026-01-31T14:26:17.8606296-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>88</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>I Love My Mom</albumName>
+        <albumURL>https://open.spotify.com/album/43Ly01iLJ2uIQPfqjZmH8Y</albumURL>
+        <artistName>Indigo De Souza</artistName>
+        <dateAdded>2026-01-31T14:26:35.6069024-06:00</dateAdded>
+        <dateListenedTo>2026-03-30T11:02:17.2910342-05:00</dateListenedTo>
+        <listedTo>true</listedTo>
+        <index>89</index>
+        <rating>8.75</rating>
+        <thoughts>I Love My Mom is such a pretty, depressing, and hopeful album all at once; It's a personification of romanticized sadness and longing. It is a really good indie rock album, and an extremely stunning one at that.</thoughts>
+      </Album>
+      <Album>
+        <albumName>Stay Alive</albumName>
+        <albumURL>https://open.spotify.com/album/4Q8RNU12a8ZZl49RNS2NPh</albumURL>
+        <artistName>Laura Jane Grace</artistName>
+        <dateAdded>2026-01-31T14:27:02.2354233-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>90</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Abbey Road</albumName>
+        <albumURL>https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN</albumURL>
+        <artistName>The Beatles</artistName>
+        <dateAdded>2026-01-31T14:31:40.0826593-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>91</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>The Miseducation of Lauryn Hill</albumName>
+        <albumURL>https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD</albumURL>
+        <artistName>Ms. Lauryn Hill</artistName>
+        <dateAdded>2026-01-31T14:32:35.9517844-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>92</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Thriller</albumName>
+        <albumURL>https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ</albumURL>
+        <artistName>Micheal Jackson</artistName>
+        <dateAdded>2026-01-31T14:35:48.3635035-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>93</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Behaviour</albumName>
+        <albumURL>https://open.spotify.com/album/23uqrSQB0iXBCRx2Zc8STp</albumURL>
+        <artistName>Pet Shop Boys</artistName>
+        <dateAdded>2026-01-31T14:36:57.2611081-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>94</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Arrival</albumName>
+        <albumURL>https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9</albumURL>
+        <artistName>ABBA</artistName>
+        <dateAdded>2026-01-31T14:37:25.5267807-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>95</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>The Court Of The Crimson King</albumName>
+        <albumURL>https://open.spotify.com/album/75ol9OP8bJaRqzGimpFHDm</albumURL>
+        <artistName>King Crimson</artistName>
+        <dateAdded>2026-01-31T14:38:08.5183213-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>96</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Wish You Were Here</albumName>
+        <albumURL>https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw</albumURL>
+        <artistName>Pink Floyd</artistName>
+        <dateAdded>2026-01-31T14:38:49.3273473-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>97</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Kind Of Blue</albumName>
+        <albumURL>https://open.spotify.com/album/1weenld61qoidwYuZ1GESA</albumURL>
+        <artistName>Miles Davis</artistName>
+        <dateAdded>2026-01-31T14:40:51.6043266-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>98</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>War Requiem</albumName>
+        <albumURL>https://open.spotify.com/album/7nL2OSSXQY5T6AcvY3Caey</albumURL>
+        <artistName>Benjamin Britten</artistName>
+        <dateAdded>2026-01-31T14:42:33.0758208-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>99</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Bestiary</albumName>
+        <albumURL>https://open.spotify.com/album/3wfLpy5FvPU1e0fa5AyF4t</albumURL>
+        <artistName>The Forgetmenauts</artistName>
+        <dateAdded>2026-02-14T01:52:38.2077085-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>100</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>SCRAPYARD</albumName>
+        <albumURL>https://open.spotify.com/album/2uoD60Oip7rq3vjXxZ2VaD</albumURL>
+        <artistName>Quadeca</artistName>
+        <dateAdded>2026-02-14T01:58:56.5821128-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>101</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Vegas in the Rearview Mirror</albumName>
+        <albumURL>https://open.spotify.com/album/48UIVTO2hgtn8FFR4HxccW</albumURL>
+        <artistName>Vanya Limb</artistName>
+        <dateAdded>2026-02-14T02:00:38.3481514-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>102</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Alternative Strategies</albumName>
+        <albumURL>https://open.spotify.com/album/4wYIVKEA32PhyP8bzO77j3</albumURL>
+        <artistName>Turquoise Days</artistName>
+        <dateAdded>2026-02-14T02:11:58.9457679-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>103</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Nervous Damage</albumName>
+        <albumURL>https://open.spotify.com/album/7lMiUt4QQsakA6uI1Ode8F</albumURL>
+        <artistName>Nervous Damage</artistName>
+        <dateAdded>2026-02-14T02:14:23.5307013-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>104</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Everything Destroys you</albumName>
+        <albumURL>https://open.spotify.com/album/5HxJGedU8hLULalg1ktLgb</albumURL>
+        <artistName>Deathstars</artistName>
+        <dateAdded>2026-02-14T02:18:21.5547226-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>105</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Everything That Dies Someday Comes Back</albumName>
+        <albumURL>https://open.spotify.com/album/12EdlcScJ3quPWrqIVgii9</albumURL>
+        <artistName>Uniform</artistName>
+        <dateAdded>2026-02-14T02:19:24.7300313-06:00</dateAdded>
+        <dateListenedTo>2026-06-13T18:45:33.1784584-05:00</dateListenedTo>
+        <listedTo>true</listedTo>
+        <index>106</index>
+        <rating>7.5</rating>
+        <thoughts>It is some really good metal, will give more later.</thoughts>
+      </Album>
+      <Album>
+        <albumName>American Standard</albumName>
+        <albumURL>https://open.spotify.com/album/2i6NKvLSPRQVyBwmq7ASGG</albumURL>
+        <artistName>Uniform</artistName>
+        <dateAdded>2026-02-14T02:19:42.2694338-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>107</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>BLOOD DOCTOR, VOL.1</albumName>
+        <albumURL>https://open.spotify.com/album/5v3ssoyoSiXLCCQkNFOKqB</albumURL>
+        <artistName>Mojave Phone Booth</artistName>
+        <dateAdded>2026-02-14T02:29:02.5052349-06:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>108</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Nobody's Listening!</albumName>
+        <albumURL>https://open.spotify.com/album/5aNRZwztr32BQI1ttus03T</albumURL>
+        <artistName>Wishlane</artistName>
+        <dateAdded>2026-03-30T11:06:20.6772449-05:00</dateAdded>
+        <dateListenedTo>2026-03-30T11:12:32.8504184-05:00</dateListenedTo>
+        <listedTo>true</listedTo>
+        <index>109</index>
+        <rating>6.5</rating>
+        <thoughts>Such a visceral album in its sound and instrumentals. The way it throws emotions of discomfort and stress around, in an artificial, yet insanely human, way. Yet the vocals really such, so does the flow of the album.</thoughts>
+      </Album>
+      <Album>
+        <albumName>An Undying Love For A Burning World</albumName>
+        <albumURL>https://open.spotify.com/album/6R9JG8pkMHdGz031ceugiM</albumURL>
+        <artistName>Neurosis</artistName>
+        <dateAdded>2026-03-30T11:07:21.2296176-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>110</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Honora</albumName>
+        <albumURL>https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM</albumURL>
+        <artistName>Flea</artistName>
+        <dateAdded>2026-03-30T11:07:50.5986523-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>111</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>The Contortionist</albumName>
+        <albumURL>https://open.spotify.com/album/3nuwjKBDSiHGJ0mXzHdGuL</albumURL>
+        <artistName>Tarquin Alexandra</artistName>
+        <dateAdded>2026-05-29T14:49:02.7120119-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>112</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>The Higher the Hair, the Closer to God</albumName>
+        <albumURL>https://open.spotify.com/album/0xfApYqcQ2PudjFFuSxomI</albumURL>
+        <artistName>Bunny White</artistName>
+        <dateAdded>2026-05-29T14:49:54.9247763-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>113</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>20 Jazz Funk Greats</albumName>
+        <albumURL>https://open.spotify.com/album/2P2rEGacPr58w3aDUandWA</albumURL>
+        <artistName>Throbbing Gristle</artistName>
+        <dateAdded>2026-05-29T14:52:43.7279592-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>114</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Thirty-Second Annual Report</albumName>
+        <albumURL>https://open.spotify.com/album/0KM5Eev3cHr7ijcDetelB2</albumURL>
+        <artistName>Throbbing Gristle</artistName>
+        <dateAdded>2026-05-29T14:54:00.2711684-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>115</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>The Powers That B</albumName>
+        <albumURL>https://open.spotify.com/album/5Y04ylQjDWsawOUJXzY4YO</albumURL>
+        <artistName>Death Grips</artistName>
+        <dateAdded>2026-05-29T14:56:00.6958232-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>116</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Frailty</albumName>
+        <albumURL>https://open.spotify.com/album/6rO7DlLYSHabzSsD7Gpe14</albumURL>
+        <artistName>Jane Remover</artistName>
+        <dateAdded>2026-05-29T14:57:20.1542024-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>117</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Dopethrone</albumName>
+        <albumURL>https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO</albumURL>
+        <artistName>Electric Wizard</artistName>
+        <dateAdded>2026-05-29T14:57:59.025366-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>118</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>By the Time I Get to Phoenix</albumName>
+        <albumURL>https://open.spotify.com/album/7L7oMPboBCeyGLJVsHSWM2</albumURL>
+        <artistName>Injury Reserve</artistName>
+        <dateAdded>2026-05-29T14:58:43.8531439-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>119</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>'77 LIVE</albumName>
+        <albumURL>https://open.spotify.com/album/2YJo8wNg6DLNM5HnvKscxJ</albumURL>
+        <artistName>Les Rallizes Denudes</artistName>
+        <dateAdded>2026-05-29T14:59:31.7900488-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>120</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>A lame enflammee, lame constellee.....</albumName>
+        <albumURL>https://open.spotify.com/album/0tEZdKiYovgrD4auCMe8fM</albumURL>
+        <artistName>Gris</artistName>
+        <dateAdded>2026-05-29T15:02:18.0436668-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>121</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Love In Us All</albumName>
+        <albumURL>https://open.spotify.com/album/1JxLSApMpvU99WyLV03B4e</albumURL>
+        <artistName>Pharoah Sanders</artistName>
+        <dateAdded>2026-05-29T15:03:31.2019014-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>122</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Spectrum Ripper</albumName>
+        <albumURL>https://open.spotify.com/album/5AVa7FxoxMYqjElnm5FzQV</albumURL>
+        <artistName>Masonna</artistName>
+        <dateAdded>2026-05-29T15:04:12.4552302-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>123</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Erector</albumName>
+        <albumURL>https://susanlawly.bandcamp.com/album/erector</albumURL>
+        <artistName>Whitehouse</artistName>
+        <dateAdded>2026-05-29T15:04:51.6661235-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>124</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Blue Rabbit</albumName>
+        <albumURL>https://open.spotify.com/album/1Oh8XKCGCKEieVF9WIBqYE</albumURL>
+        <artistName>Sutcliffe Jugend</artistName>
+        <dateAdded>2026-05-29T15:07:12.7081792-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>125</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>I Know A Girl Who Develops Crime Scene Photos</albumName>
+        <albumURL>https://open.spotify.com/album/48Do8qu249zlYSrnbuacjG</albumURL>
+        <artistName>Combat Wounded Veteran</artistName>
+        <dateAdded>2026-05-29T15:08:06.3690746-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>126</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Men</albumName>
+        <albumURL>https://open.spotify.com/album/72HOAVdwH86YVeNGYiIsUt</albumURL>
+        <artistName>Burmese</artistName>
+        <dateAdded>2026-05-29T15:09:08.9073354-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>127</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Pulse Demon</albumName>
+        <albumURL>https://open.spotify.com/album/2jp9y9hNZTVeQkEDr0pCLI</albumURL>
+        <artistName>Merzbow</artistName>
+        <dateAdded>2026-05-29T15:09:53.5154715-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>128</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Hold Your Horse Is</albumName>
+        <albumURL>https://open.spotify.com/album/4kDzCMsxuZwsqqTPyL4yr6</albumURL>
+        <artistName>Hella</artistName>
+        <dateAdded>2026-05-29T15:10:54.4469211-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>129</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Metal Machine Music</albumName>
+        <albumURL>https://open.spotify.com/album/2g4i8tiNEGn1dCNYeuvixB</albumURL>
+        <artistName>Lou Reed</artistName>
+        <dateAdded>2026-05-29T15:11:24.6500459-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>130</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Suburban Lawns</albumName>
+        <albumURL>https://open.spotify.com/album/73heWpQLwKGoedT3eM72Ra</albumURL>
+        <artistName>Suburban Lawns</artistName>
+        <dateAdded>2026-05-29T15:11:58.587291-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>131</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Public Castration Is A Good Idea</albumName>
+        <albumURL>https://open.spotify.com/album/1P3raU1xm412te9bcdNrwJ</albumURL>
+        <artistName>Swans</artistName>
+        <dateAdded>2026-05-29T15:12:30.1810274-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>132</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Records</albumName>
+        <albumURL>https://open.spotify.com/album/1UYTT6vN94BDRzQYXQP6pJ</albumURL>
+        <artistName>Christian Marclay</artistName>
+        <dateAdded>2026-05-29T15:13:24.9340646-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>133</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>A Crow Looked at Me</albumName>
+        <albumURL>https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN</albumURL>
+        <artistName>Mount Eerie</artistName>
+        <dateAdded>2026-05-29T15:15:32.8566962-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>134</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Hospice</albumName>
+        <albumURL>https://open.spotify.com/album/6fFp2F91noBeodV88bRwTD</albumURL>
+        <artistName>The Antlers</artistName>
+        <dateAdded>2026-05-29T15:16:08.4029311-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>135</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Giles Corey</albumName>
+        <albumURL>https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu</albumURL>
+        <artistName>Giles Corey</artistName>
+        <dateAdded>2026-05-29T15:16:45.4529444-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>136</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Songs From Suicide Bridge</albumName>
+        <albumURL>https://open.spotify.com/album/0bZ1Zq29eLdVRToyadNBg4</albumURL>
+        <artistName>David Kauffman &amp; Eric Caboor</artistName>
+        <dateAdded>2026-05-29T15:17:40.5568459-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>137</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Circles</albumName>
+        <albumURL>https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb</albumURL>
+        <artistName>Mac Miller</artistName>
+        <dateAdded>2026-05-29T15:18:11.6582849-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>138</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Ruins</albumName>
+        <albumURL>https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa</albumURL>
+        <artistName>Grouper</artistName>
+        <dateAdded>2026-05-29T15:18:30.4480905-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>139</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Down Colorful Hill</albumName>
+        <albumURL>open.spotify.com/album/31toyxx4NeSixf47lJBNbt</albumURL>
+        <artistName>Red House Painters</artistName>
+        <dateAdded>2026-05-29T15:18:56.0042202-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>140</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Songs About Leaving</albumName>
+        <albumURL>https://open.spotify.com/album/31toyxx4NeSixf47lJBNbt</albumURL>
+        <artistName>Carissa's Wierd</artistName>
+        <dateAdded>2026-05-29T15:19:33.1390734-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>141</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Dreams At Snowland</albumName>
+        <albumURL>https://open.spotify.com/album/31toyxx4NeSixf47lJBNbt</albumURL>
+        <artistName>Sunrise Flowerfield</artistName>
+        <dateAdded>2026-05-29T15:20:43.5528089-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>142</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>THE BPM</albumName>
+        <albumURL>https://open.spotify.com/album/31toyxx4NeSixf47lJBNbt</albumURL>
+        <artistName>Sudan Archives</artistName>
+        <dateAdded>2026-05-29T15:21:20.1709838-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>143</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Hexed</albumName>
+        <albumURL>https://open.spotify.com/album/31toyxx4NeSixf47lJBNbt</albumURL>
+        <artistName>Aya</artistName>
+        <dateAdded>2026-05-29T15:22:26.5522632-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>144</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Pain to Power</albumName>
+        <albumURL>https://open.spotify.com/album/31toyxx4NeSixf47lJBNbt</albumURL>
+        <artistName>Maruja</artistName>
+        <dateAdded>2026-05-29T15:23:22.4254551-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>145</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Birthing</albumName>
+        <albumURL>https://open.spotify.com/album/31toyxx4NeSixf47lJBNbt</albumURL>
+        <artistName>Swans</artistName>
+        <dateAdded>2026-05-29T15:24:31.5946222-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>146</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>EUSEXUA</albumName>
+        <albumURL>https://open.spotify.com/album/31toyxx4NeSixf47lJBNbt</albumURL>
+        <artistName>FKA twigs</artistName>
+        <dateAdded>2026-05-29T15:25:16.4195967-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>147</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Solitude Standing</albumName>
+        <albumURL>https://open.spotify.com/album/31toyxx4NeSixf47lJBNbt</albumURL>
+        <artistName>Suzanne Vega</artistName>
+        <dateAdded>2026-05-29T15:26:48.271534-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>148</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>West of Eden</albumName>
+        <albumURL>https://open.spotify.com/album/2p8RMs5j4ApdLg6K4bvhCb?si=A6CyoFIjSKuUncmtHFOmpw</albumURL>
+        <artistName>HMLTD</artistName>
+        <dateAdded>2026-07-11T15:25:04.1869456-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>149</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>The Worm</albumName>
+        <albumURL>https://open.spotify.com/album/3ilzLYEzGlpAXk8fx7z3vu</albumURL>
+        <artistName>HMLTD</artistName>
+        <dateAdded>2026-07-11T15:25:22.052216-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>150</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Dirty Computer</albumName>
+        <albumURL>https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE</albumURL>
+        <artistName>Janelle Monae</artistName>
+        <dateAdded>2026-07-26T21:54:36.0417635-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>151</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>B/E/A/T/B/O/X</albumName>
+        <albumURL>https://open.spotify.com/album/34HdlwbafaANIXhwqNTnlb</albumURL>
+        <artistName>Glass Candy</artistName>
+        <dateAdded>2026-07-26T21:55:11.2533542-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>152</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>To Bring You My Love</albumName>
+        <albumURL>https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8</albumURL>
+        <artistName>PJ Harvey</artistName>
+        <dateAdded>2026-07-26T21:56:13.3680692-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>153</index>
+        <rating>-1</rating>
+      </Album>
+      <Album>
+        <albumName>Wolf Hunter</albumName>
+        <albumURL>https://open.spotify.com/album/1PTDSbqhgin2DFe5B4EJfz</albumURL>
+        <artistName>The Creek Rocks</artistName>
+        <dateAdded>2026-07-26T21:56:47.9000565-05:00</dateAdded>
+        <dateListenedTo xsi:nil="true" />
+        <listedTo>false</listedTo>
+        <index>154</index>
+        <rating>-1</rating>
+      </Album>
+    </listOfAlbums>
+  </allMusic>
+</Root>
